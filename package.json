@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/HenkerX64/node-steam-badge-unlocker",
   "devDependencies": {
-    "async": ">=2.6.4",
+    "async": ">=3.2.5",
     "mocha": "^8.4.0",
     "nanoid": "^3.1.31",
     "nyc": "14.1.1",
